@@ -11,7 +11,7 @@ CORS(app)
 voice_models = {
     'MARTIN-LUTHER-KING-JR': "voice_models/martin.wav",
     'ELON-MUSK': "voice_models/elon_musk.wav",
-    'ELON-LARGE': "voice_models/elon_MUSK_large.wav",
+    #'ELON-LARGE': "voice_models/elon_MUSK_large.wav",
     'TAYLOR-SWIFT': "voice_models/taylor.wav",
 }
 
